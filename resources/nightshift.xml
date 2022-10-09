@@ -1,0 +1,91 @@
+<scheme name="Nightshift" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2021-06-30T19:38:41</property>
+    <property name="description">Nightshift editor scheme</property>
+    <property name="ide">IntelliJ IDEA</property>
+    <property name="ideVersion">2021.1.2.0.0</property>
+    <property name="modified">2022-10-08T18:11:44</property>
+    <property name="originalScheme">_@user_Darcula</property>
+    <property name="vendorMail">devemekaelo@gmail.com</property>
+    <property name="vendorName">Emeka Elo</property>
+    <property name="vendorUrl">https://brunoelo.com</property>
+    <property name="version">0.1</property>
+  </metaInfo>
+  <colors>
+    <option name="CARET_COLOR" value="fffd64" />
+    <option name="CARET_ROW_COLOR" value="13e3e" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="a0a1a" />
+    <option name="DOCUMENTATION_COLOR" value="1122" />
+    <option name="FILESTATUS_DELETED" value="ff001e" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="ff001e" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="6c6c6c" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="ff00b7" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="ff00b7" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="ff00b7" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="72a038" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
+    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="629755" />
+    <option name="FILESTATUS_MERGED" value="6000ba" />
+    <option name="FILESTATUS_MODIFIED" value="2a4fc" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="2a4fc" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="2a4fc" />
+    <option name="FILESTATUS_UNKNOWN" value="f6d536" />
+    <option name="FILESTATUS_changelistConflict" value="ff00b7" />
+    <option name="FILESTATUS_modifiedOutside" value="2a4fc" />
+    <option name="GUTTER_BACKGROUND" value="1122" />
+    <option name="LOOKUP_COLOR" value="1122" />
+    <option name="RIGHT_MARGIN_COLOR" value="373737" />
+    <option name="SELECTED_TEARLINE_COLOR" value="1ea8ff" />
+    <option name="SELECTION_BACKGROUND" value="1d5a" />
+    <option name="TEARLINE_COLOR" value="8a97" />
+    <option name="TOOLTIP" value="32034" />
+  </colors>
+  <attributes>
+    <option name="HTML_CODE">
+      <value />
+    </option>
+    <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="c4ff" />
+        <option name="BACKGROUND" value="7b4603" />
+        <option name="FONT_TYPE" value="2" />
+        <option name="ERROR_STRIPE_COLOR" value="36b13" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="KOTLIN_LABEL">
+      <value />
+    </option>
+    <option name="MATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="3b514d" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="SCOPE_KEY_All Changed Files">
+      <value />
+    </option>
+    <option name="TEXT">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+        <option name="BACKGROUND" value="a0a1a" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="TODO_DEFAULT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="fffd64" />
+        <option name="FONT_TYPE" value="2" />
+        <option name="ERROR_STRIPE_COLOR" value="977ab" />
+      </value>
+    </option>
+    <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="7f5032" />
+        <option name="FONT_TYPE" value="2" />
+        <option name="ERROR_STRIPE_COLOR" value="b56277" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+  </attributes>
+</scheme>

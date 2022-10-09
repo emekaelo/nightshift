@@ -1,0 +1,60 @@
+{
+  "name": "Nightshift",
+  "author": "Emeka Elo-Chukwuma",
+  "dark": true,
+  "editorScheme": "/nightshift.xml",
+  "colors": {
+    "primaryNightBlue": "#080218",
+    "accentCyan": "#007d93",
+    "accentCyanDark": "accentCyanDark"
+  },
+  "ui": {
+    "*": {
+      "background": "primaryNightBlue",
+      "foreground": "#d4d0d0",
+      "borderColor": "accentCyan",
+      "selectionBackground": "accentCyan"
+    },
+    "CompletionPopup": {
+      "selectionBackground": "accentCyanDark"
+    },
+    "TitlePane": {
+      "background": "accentCyanDark",
+      "inactiveBackground": "primaryNightBlue",
+      "infoForeground": "#02a4fc"
+    },
+    "Menu": {
+      "separatorColor": "accentCyan",
+      "selectionBackground": "accentCyan",
+      "selectionForeground": "#ffffff"
+    },
+    "MenuItem": {
+      "selectionForeground": "#ffffff"
+    },
+    "ToolWindow": {
+      "Header": {
+        "background": "accentCyan",
+        "inactiveBackground": "primaryNightBlue"
+      },
+      "HeaderTab": {
+        "underlinedTabBackground": "accentCyanDark",
+        "underlineColor": "accentCyan",
+        "inactiveUnderlineColor": "accentCyan",
+        "hoverInactiveBackground": "accentCyan"
+      }
+    },
+    "EditorTabs": {
+      "borderColor": "accentCyan",
+      "underlineColor": "accentCyan",
+      "background": "#01111d",
+      "hoverBackground": "#002132",
+      "underlinedTabBackground": "accentCyanDark",
+      "inactiveUnderlineColor": "#FFFFFF00"
+    },
+    "Tree": {
+      "background": "#00101f",
+      "hoverBackground": "#081043",
+      "selectionBackground": "#00414e"
+    }
+  }
+}
