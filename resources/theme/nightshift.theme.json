@@ -6,7 +6,7 @@
   "colors": {
     "primaryNightBlue": "#080218",
     "accentCyan": "#007d93",
-    "accentCyanDark": "accentCyanDark"
+    "accentCyanDark": "#01353e"
   },
   "ui": {
     "*": {
