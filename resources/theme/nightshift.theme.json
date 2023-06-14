@@ -55,6 +55,14 @@
       "background": "#00101f",
       "hoverBackground": "#081043",
       "selectionBackground": "#00414e"
+    },
+    "VersionControl":{
+      "Log": {
+        "Commit": {
+          "currentBranchBackground": "primaryNightBlue",
+          "selectionForeground": "#ffffff"
+        }
+      }
     }
   }
 }
